@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\프로젝트\opencv\projects\colortracker\library\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+e:\프로젝트\opencv\projects\colortracker\library\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+e:\프로젝트\opencv\projects\colortracker\library\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+e:\프로젝트\opencv\projects\colortracker\library\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  ColorTracker.vcxproj -> E:\프로젝트\OpenCV\PROJECTS\ColorTracker\x64\Debug\ColorTracker.exe
